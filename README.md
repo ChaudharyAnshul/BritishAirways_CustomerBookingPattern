@@ -18,4 +18,4 @@ Visualization is an effective way to explore and communicate insights from the d
 
 ## Predictive Modeling
 
-Predictive modeling involves training machine learning models to make predictions based on historical booking data. We can use predictive modeling to:
+Predictive modeling involves training machine learning models to make predictions based on historical booking data.
